@@ -11,6 +11,6 @@ Inspiration:
 2) The [awesome lists](https://github.com/sindresorhus/awesome), a great way of organising knowledge.
 
 
-
+List of Lexicons:
 * [Computational linguistics](https://github.com/technopreneurG/lexicon-computational-linguistics)
 * [Artificial neural networks](https://github.com/technopreneurG/lexicon-artificial-neural-network)
