@@ -10,3 +10,6 @@ Inspiration:
 
 2) The [awesome lists](https://github.com/sindresorhus/awesome), a great way of organising knowledge.
 
+
+[Computational linguistics](https://github.com/technopreneurG/lexicon-computational-linguistics)
+[Artificial neural networks](https://github.com/technopreneurG/lexicon-artificial-neural-network)
