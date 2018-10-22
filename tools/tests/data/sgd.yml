@@ -1,0 +1,12 @@
+---
+
+lexicon:
+    title: Stochastic gradient descent
+    description: Stochastic gradient descent (often shortened in SGD), also known as incremental gradient descent, is a stochastic approximation of the gradient descent optimization method for minimizing an objective function that is written as a sum of differentiable functions. In other words, SGD tries to find minima or maxima by iteration.
+    links:
+      - https://en.wikipedia.org/wiki/Stochastic_gradient_descent
+      - http://ufldl.stanford.edu/tutorial/supervised/OptimizationStochasticGradientDescent/
+    tags:
+      - Algorithms
+      - Computational Statistics
+    abbreviation: SGD

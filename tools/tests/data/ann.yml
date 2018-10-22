@@ -1,0 +1,7 @@
+---
+lexicon:
+  description: Artificial neural networks are computational models inspired by biological neural networks, and are used to approximate functions that are generally unknown. Particularly, they are inspired by the behaviour of neurons and the electrical signals they convey between input (such as from the eyes or nerve endings in the hand), processing, and output from the brain (such as reacting to light, touch, or heat).
+  links:
+    - https://en.wikipedia.org/wiki/Artificial_neural_network
+  title: Artificial neural networks
+  abbreviation: ANN
