@@ -1,7 +1,7 @@
 import yaml
 import os
 
-
+# random utility functions
 #read-feeds: read files from the given path and convert to python dictionary
 #usage: read_feeds('./lexicon-xyz/data/')
 def read_feeds(path):
