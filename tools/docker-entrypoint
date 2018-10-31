@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#Do nothing, ready for python developement
+tail -f /dev/null
