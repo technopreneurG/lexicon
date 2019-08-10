@@ -1,4 +1,7 @@
-FROM python:3
+FROM python:3.7.1-stretch
+
+#Few basic utitls needed for debugging
+RUN apt-get update && apt-get install -y apt-utils unzip curl bash net-tools telnet
 
 WORKDIR /lexicon-tools
 
