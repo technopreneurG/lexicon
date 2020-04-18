@@ -13,6 +13,7 @@ Inspiration:
 
 List of Lexicons:
 
- * [Computational linguistics](https://github.com/technopreneurG/lexicon-computational-linguistics)
  * [Artificial neural networks](https://github.com/technopreneurG/lexicon-artificial-neural-networks)
+ * [Amazon Web Services(AWS)](https://github.com/technopreneurG/lexicon-aws)
  * [Cloud Computing](https://github.com/technopreneurG/lexicon-cloud-computing)
+ * [Computational linguistics](https://github.com/technopreneurG/lexicon-computational-linguistics)
