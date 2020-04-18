@@ -7,7 +7,7 @@ import os.path
 
 parser = argparse.ArgumentParser()
 
-# Usage: yaml_to_md.py data-dir output-file
+# Usage: yaml_to_md.py -d data-dir -o output -m true/false -t readme/mkdocs
 #  data-dir: is where the yaml files with lexicons are placed
 #  output-file: the markdown file in which to write the contents
 

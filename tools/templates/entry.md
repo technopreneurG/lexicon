@@ -1,9 +1,10 @@
 {% if output_type=='mkdocs' and lexicon %}---
 title: {{ lexicon['title'] }}
 summary: {{ lexicon['description'] }}
-authors: {% for author in lexicon['authors'] %}
-  - {{ author }}
-{% endfor %}
+maintainers:{% for maintainer in lexicon['maintainers'] %}
+  - {{ maintainer }}{% endfor %}
+{% if lexicon['contributors'] %}contributors:{% for contributor in lexicon['contributors'] %}
+  - {{ contributor }}{% endfor %}{% endif %}
 ---
 {% elif output_type=='readme' and lexicon %}# {{ lexicon['title'] }}{% endif %}
 {% for entry in entries %}
