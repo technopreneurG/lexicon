@@ -1,4 +1,4 @@
 Jinja2>=2.10.1
 Markdown==3.0.1
 MarkupSafe==1.0
-PyYAML==5.1
+PyYAML==5.4
